@@ -77,13 +77,15 @@ The dataset contains information such as:
 
 ## 📁 Project Structure
 
-```
+```text
 Placement-Prediction/
 │
-├── placement-prediction-model.ipynb
-├── placement_dataset.csv
+├── .gitignore
+├── LICENSE
 ├── README.md
-└── requirements.txt
+├── placement_prediction_model.ipynb
+├── train.csv
+└── test.csv
 ```
 
 ---
